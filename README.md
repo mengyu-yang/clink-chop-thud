@@ -6,7 +6,7 @@
 ## Motivation
 
 <p align="center">
-  <img src="/coc/flash5/myang415/clink-chop-thud/figures/teaser_fig.png" alt="Teaser Figure" width="80%">
+  <img src="figures/teaser_fig.png" alt="Teaser Figure" width="80%">
 </p>
 
 Humans handle a wide variety of objects throughout the day and many of these interactions produce sounds. We introduce a multimodal *object-aware* framework that learns the relationship between the objects in an interaction and the resulting sounds. This enables our model to detect the *sounding objects* from a set of candidates in a scene.
