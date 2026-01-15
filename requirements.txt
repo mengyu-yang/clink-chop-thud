@@ -1,0 +1,40 @@
+# Core PyTorch (install separately with CUDA support)
+# pip install torch torchvision torchaudio
+
+# AST model requires exactly timm==0.4.5
+timm==0.4.5
+
+# Vision/Language models
+transformers<4.48
+einops
+
+# Video/Audio processing
+decord==0.6.0
+av
+
+# Image processing
+opencv-python
+pillow
+
+# Data handling
+numpy
+scipy
+pandas
+scikit-learn
+
+# Metrics
+torchmetrics
+torcheval
+pycocotools
+supervision
+
+# Visualization & Logging
+matplotlib
+wandb
+tqdm
+torchinfo
+tensorboard
+
+# Utilities
+pyyaml
+wget

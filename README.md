@@ -13,6 +13,19 @@ Humans handle a wide variety of objects throughout the day and many of these int
 
 ## Installation
 
+To install the conda environment:
+
+```
+bash install.sh clink_chop_thud
+```
+
+And activate using:
+
+```
+conda activate clink_chop_thud
+```
+
+The bash script above creates a conda environment with `python=3.10` and then installs PyTorch with CUDA support. Finally, it installs all the packages listed in `requirements.txt`.
 
 ## Data
 
