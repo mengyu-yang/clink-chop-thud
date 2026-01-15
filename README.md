@@ -30,7 +30,7 @@ The bash script above creates a conda environment with `python=3.10` and then in
 
 Two datasets are used in this project: Ego4D and Epic Kitchens.
 
-All the required data files, EXCEPT for the training video clips for Ego4D (as it is too large), can be downloaded from Dropbox [here](https://www.dropbox.com/scl/fo/0vuwhtlp9nwhyx0im4hhh/AEdBpi14WdkYrfUR9GgrYcM?rlkey=2uv9hb0qzlcc7zvtbz550zqfr&st=66l43cui&dl=0). The training clips are only needed if you wish to retrain the model from scratch. To do so, please refer to the [Ego4DSounds project page](https://ego4dsounds.github.io/) on downloading the dataset.
+All the required data files, **except** for the training video clips for Ego4D (as it is too large), can be downloaded from Dropbox [here](https://www.dropbox.com/scl/fo/0vuwhtlp9nwhyx0im4hhh/AEdBpi14WdkYrfUR9GgrYcM?rlkey=2uv9hb0qzlcc7zvtbz550zqfr&st=66l43cui&dl=0). The training clips are only needed if you wish to retrain the model from scratch. To do so, please refer to the [Ego4DSounds project page](https://ego4dsounds.github.io/) on downloading the dataset. To prepare the data:
 
 1. Download all files from the Dropbox folder
 2. Unzip the .tar.gz files with `tar -xzvf {archive_name}.tar.gz`
