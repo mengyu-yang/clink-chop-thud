@@ -44,7 +44,7 @@ The following pretrained model checkpoints can be downloaded from Dropbox [here]
 2. `ego4d_object_detection.pth`: Finetuned on Ego4D for sounding object detection
 3. `epickitchens_object_detection.pth`: Finetuned on Epic Kitchens for sounding object detection
 
-Place them in a directory called `checkpoints/`
+Place them in a directory called `./checkpoints`
 
 ## Evaluation
 
