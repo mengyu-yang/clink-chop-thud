@@ -1,6 +1,6 @@
 # Clink! Chop! Thud! — Learning Object Sounds from Real-World Interactions
 
-[Project Page](https://clink-chop-thud.github.io/) | [arXiv](https://arxiv.org/abs/2510.02313)
+<a href="https://clink-chop-thud.github.io/" target="_blank">Project Page</a> | <a href="https://arxiv.org/abs/2510.02313" target="_blank">arXiv</a>
 
 
 ## Motivation
